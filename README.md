@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Gaurav Panwar
-- 👀 I’m interested in Python, Django, DRF, ReactJS
-- 🌱 I’m currently learning Kubernetes
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  - gorav.panwar@gmail.com
 
 <!---
